@@ -117,3 +117,4 @@ while True:
         train(trans_dict)
     else:
         print('ERROR')
+#Это бот переводчик
